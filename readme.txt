@@ -1,5 +1,3 @@
-Important note: This file has been written using sublime-text editor and has 'wrapping issues' when opened on Windows Notepad. This file can be best viewed on Sublime-Text editor or Notepad++ or even can be viewed using an online reader at http://www.readfileonline.com/. Other applications might work but the mentioned three have been tested to work fine.
-
 Language used: Python
 Packages installed: PyCrypto version 2.6.1
 OS used: Kali Linux
